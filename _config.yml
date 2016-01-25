@@ -1,0 +1,28 @@
+name: Music is a contact sport
+favicon: null
+layout_spectrum: 0.04637587652541697
+typography_spectrum: 0.551475667860359
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9857791443355381
+  lightness: 0.2899280192796141
+  saturation: 0.928061758633703
+  rhythmicContrast: 0.4263702561147511
+purpose: []
